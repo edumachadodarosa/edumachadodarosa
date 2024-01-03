@@ -1,21 +1,24 @@
-👨‍💻 Eduardo Machado da Rosa | Programador e Aprendiz Tecnológico
+Eduardo Machado da Rosa | Programador em Desenvolvimento
 
-🌟 Sobre Mim:
-Olá, eu sou o Eduardo! Com 33 anos, estou embarcando em uma empolgante jornada de descoberta e inovação no mundo da programação. Minha aventura até agora me levou pelo universo do HTML, CSS, um pouco de JavaScript, Bootstrap e estou explorando as potencialidades de Node.js e React.js.
+🚀 Sobre mim:<br>
+Olá, sou Eduardo! Aos 33 anos, mergulhei no mundo da programação, explorando desde HTML e CSS até JavaScript, Bootstrap, Node.js e React.js. Sou movido pela curiosidade e pelo desejo de aprender.
 
-🛠 Habilidades:
-HTML & CSS: Criando as fundações visuais.<br>
-JavaScript: Aprimorando a interatividade.<br>
-Bootstrap: Agilidade no design responsivo.<br>
-Node.js: Passos iniciais no back-end.<br>
-React.js: Dando vida a UIs dinâmicas.<br>
+🛠 Habilidades e Aprendizado:<br>
+HTML & CSS: Construindo a base visual.<br>
+JavaScript: Ampliando a interatividade.<br>
+Bootstrap: Design responsivo com eficiência.<br>
+Node.js & React.js: Explorando o full-stack.<br>
 
+🎯 Objetivo:<br>
+Almejo ser um programador versátil e inovador. Estou à procura de oportunidades que desafiem minha criatividade e habilidades técnicas, permitindo-me contribuir significativamente em projetos e aprender com experiências práticas.
 
-🌱 Crescimento:
-Cada dia na programação é uma nova chance para aprender e melhorar. Estou aqui para absorver conhecimento, enfrentar desafios e transformar ideias em realidade.
+📢 Compartilhando Minha Jornada:<br>
+Acompanhe-me nas redes sociais! Estarei compartilhando regularmente meu progresso, os altos e baixos do aprendizado em programação, e espero inspirar e conectar-me com outros entusiastas da tecnologia.
 
-🎯 Alvo:
-Minha meta é ser mais do que um desenvolvedor; é ser um solucionador de problemas, um inovador. Estou à procura de oportunidades onde eu possa deixar uma marca, aprender com os melhores e contribuir para projetos significativos.
+🤝 Vamos nos Conectar:
+Se você tem interesse em tecnologia, programação, ou simplesmente quer trocar ideias, sinta-se à vontade para me contatar. Estou aberto a colaborações, projetos e novas conexões.
+
+Eduardo Machado da Rosa - Transformando aprendizado em ação, um post de cada vez. 🌐💻🚀
 
 ### Estou estudando:
 <div style="display: inline_block"><br>
