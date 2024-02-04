@@ -15,7 +15,7 @@ Almejo ser um programador versátil e inovador. Estou à procura de oportunidade
 📢 Compartilhando Minha Jornada:<br>
 Acompanhe-me nas redes sociais! Estarei compartilhando regularmente meu progresso, os altos e baixos do aprendizado em programação, e espero inspirar e conectar-me com outros entusiastas da tecnologia.
 
-🤝 Vamos nos Conectar:
+🤝 Vamos nos Conectar:<br>
 Se você tem interesse em tecnologia, programação, ou simplesmente quer trocar ideias, sinta-se à vontade para me contatar. Estou aberto a colaborações, projetos e novas conexões.
 
 Eduardo Machado da Rosa - Transformando aprendizado em ação, um post de cada vez. 🌐💻🚀
