@@ -18,7 +18,7 @@ Acompanhe-me nas redes sociais! Estarei compartilhando regularmente meu progress
 🤝 Vamos nos Conectar:<br>
 Se você tem interesse em tecnologia, programação, ou simplesmente quer trocar ideias, sinta-se à vontade para me contatar. Estou aberto a colaborações, projetos e novas conexões.
 
-Eduardo Machado da Rosa - Transformando aprendizado em ação, um post de cada vez. 🚀
+Eduardo Machado da Rosa - Transformando aprendizado em ação, um post de cada vez. 🚀💻
 
 ### Estou estudando:
 <div style="display: inline_block"><br>
