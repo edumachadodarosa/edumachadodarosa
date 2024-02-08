@@ -1,4 +1,4 @@
-Eduardo Machado da Rosa | Programador em Desenvolvimento
+Eduardo Machado da Rosa
 
 🚀 Sobre mim:<br>
 Olá, sou Eduardo! Aos 33 anos, mergulhei no mundo da programação, explorando desde HTML e CSS até JavaScript, Bootstrap, Node.js e React.js. Sou movido pela curiosidade e pelo desejo de aprender.
